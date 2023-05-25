@@ -5,7 +5,8 @@ The project is wholly written in Python
 
 Text summarisation is carried out via sPacy package in Python.
 
-##OUTPUT-![WhatsApp Image 2023-05-25 at 13 45 32](https://github.com/SidM77/Newsify/assets/102024701/e6ee3943-43dc-4786-9ff1-6fc3a47adc9b)
+#OUTPUT-
+![WhatsApp Image 2023-05-25 at 13 45 32](https://github.com/SidM77/Newsify/assets/102024701/e6ee3943-43dc-4786-9ff1-6fc3a47adc9b)
 ![WhatsApp Image 2023-05-25 at 13 45 39](https://github.com/SidM77/Newsify/assets/102024701/54cdd3f2-b669-4b6c-bbf8-8a11145c8fa0)
 ![WhatsApp Image 2023-05-25 at 13 45 39](https://github.com/SidM77/Newsify/assets/102024701/e3a5d559-510a-45de-9050-fa996451f432)
 ![WhatsApp Image 2023-05-25 at 13 45 39](https://github.com/SidM77/Newsify/assets/102024701/44f59d0c-ecbc-427e-8393-770f5bbc51e4)
